@@ -1,4 +1,6 @@
 # React + Vite
+# This is the project created from the crash course of Traversy media at:
+https://www.youtube.com/watch?v=LDB4uaJ87e0&t=689s
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
