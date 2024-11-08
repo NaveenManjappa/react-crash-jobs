@@ -12,7 +12,7 @@ const JobsListings = () => {
         </h2>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
           {recentJobs.map((job,index) => (
-           <JobListing key={index} job={job}></JobListing>
+           <JobListing key={job.id} job={job}></JobListing>
           ))}
         
         </div>
