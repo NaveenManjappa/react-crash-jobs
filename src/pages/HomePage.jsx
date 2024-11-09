@@ -7,7 +7,7 @@ import ViewAllJobs from '../components/ViewAllJobs';
 const HomePage = () => {
   return (
     <>
-    <Navbar/>
+    
     <Hero></Hero>
     <HomeCards/>
     <JobListings/>
